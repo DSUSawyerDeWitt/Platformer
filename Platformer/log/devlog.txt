@@ -1,0 +1,8 @@
+1/13/2025
+ - Started Platform Game
+ - Added the map
+ - Player
+ - Movement
+ - Animation
+ - Timers
+ - Audio
