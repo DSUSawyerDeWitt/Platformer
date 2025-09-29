@@ -1,6 +1,6 @@
 # 2D Platformer(Python + Pygame-CE)
 A 2D Platformer where you can jump, fall, shoot enemies, and dodge built using **Python** and **Pygame Community Edition**.
-This project helped me learn how to simlulate gravity, keep enemies in certain loactaions, and improve animations.
+This project helped me learn how to simulate gravity, keep enemies in certain locations, and improve animations.
 
 ## Demo
 ![Gameplay Demo](media/Platformer%20GIF.gif)
